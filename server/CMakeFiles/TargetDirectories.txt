@@ -1,0 +1,3 @@
+/home/huucuong/test-socket/server/CMakeFiles/rebuild_cache.dir
+/home/huucuong/test-socket/server/CMakeFiles/edit_cache.dir
+/home/huucuong/test-socket/server/CMakeFiles/SocketServer.dir
